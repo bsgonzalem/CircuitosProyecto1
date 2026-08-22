@@ -1,6 +1,6 @@
 #  Organización de computadores
 
-## Estudiantes
+## Estudiante
 
 - Nombre: Brayan González
 
