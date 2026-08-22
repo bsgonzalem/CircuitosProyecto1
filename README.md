@@ -1,4 +1,4 @@
-# Proyecto Integrador – Organización y Arquitectura de Computadores
+#  Organización de computadores
 
 ## Estudiantes
 
@@ -6,10 +6,8 @@
 
 ## Descripción
 
-Este repositorio contiene la solución al Proyecto Integrador del primer corte del curso de Organización y Arquitectura de Computadores
 
-El proyecto está basado en los Proyectos 1, 2 y 3 de la plataforma Nand2Tetris y también incluye una extensión llamada ALUExtendida desarrollada para este curso
-
+El proyecto está basado en los Proyectos 1, 2 y 3 de la plataforma Nand2Tetris
 ---
 
 # Contenido
